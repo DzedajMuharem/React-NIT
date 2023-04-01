@@ -1,7 +1,9 @@
-import logo from './logo.svg';
-import './App.css';
+import React from "react";
+import logo from "./logo.svg";
+import "./App.css";
 
 function App() {
+  // return React.createElement("p", {}, "Neki tekst");
   return (
     <div className="App">
       <header className="App-header">
